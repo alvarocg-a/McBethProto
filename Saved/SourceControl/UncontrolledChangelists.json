@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Repositorios/McBethProto/Content/McBethProto/Maps/CCC_Proto/MapaPrueba.umap",
+				"E:/Repositorios/McBethProto/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Github/McBethProto/Content/McBethProto/Blueprints/Bloqueos/BP_Door.uasset",
 				"D:/Github/McBethProto/Content/McBethProto/Blueprints/Bloqueos/BP_BloqueoParent.uasset",
 				"D:/Github/McBethProto/Content/McBethProto/Blueprints/Bloqueos/BP_Door1.uasset",
